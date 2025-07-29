@@ -1,2 +1,10 @@
-# test-fix-app-da0ece52
-Testing tuple error fix
+# Test Fix App
+
+Built with AI assistance using Claude AI.
+
+## Getting Started
+
+```bash
+npm install
+npm start
+```
